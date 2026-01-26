@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/scan/[cardCode].js": {
+    "api/**/*.js": {
       "runtime": "nodejs18.x"
     }
   }
